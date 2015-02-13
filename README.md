@@ -1,4 +1,6 @@
 # test-repo
 ## short
 ### to short
-Just test repository.
+* Just test repository.
+* new to it
+* enjoying
